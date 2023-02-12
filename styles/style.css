@@ -23,7 +23,7 @@ body{
     place-content: center;
 }
 
-.container{
+.qr-panel{
     width: 40rem;
     background-color: var(--white);
     padding: 2.4rem;
